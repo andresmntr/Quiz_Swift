@@ -1,4 +1,4 @@
-Andrés Montero Ranc, Juan Lluva Llord
+Andrés Montero, Juan Lluva
 
 # Quiz_Swift
 
